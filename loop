@@ -7,5 +7,6 @@ titles.each do |title|
 full titles = []
 puts "happy potter and the "
 end
+puts titles
 
 # takes in a title and 
