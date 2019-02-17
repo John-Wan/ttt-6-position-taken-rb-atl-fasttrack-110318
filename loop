@@ -1,0 +1,9 @@
+titles = ["s", "c", "p", "g", "o", "h", "d1", d2]
+# loop over titles,  titles.each do |title|
+# build an array of the full title of the books
+# Harry Potter and the  
+
+titles.each do |title|
+full titles = []
+puts "happy potter and the "
+end
